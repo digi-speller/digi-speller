@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @digi-speller
-- 👀 I’m going through The ODIN Project and 100 Devs
+- 👀 I’m going through The ODIN Project and 100 Devs tutorials
 - 🌱 I’m currently learning about HTML, CSS, JavaScript and PHP
 - 💞️ I’m looking to collaborate on web applications in the future
 
